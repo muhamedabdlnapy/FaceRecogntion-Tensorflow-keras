@@ -1,0 +1,9 @@
+Requirements:
+
+pip install tensorflow==1.15.0 
+
+pip install keras==2.3
+
+pip install mtcnn
+
+pip install h5py==2.10.0
